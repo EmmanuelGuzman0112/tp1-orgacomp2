@@ -1,0 +1,3 @@
+Desde el main se llama a la funcion SUMA_VF, en cual recibe 2 parametros, el puntero y la longitud del array
+
+Las variables utilizadas son "puntero" que apunta al array de vectores y lenArrayNumbers que contiene la longitud de este array
